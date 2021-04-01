@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jay135-lab
 - 👀 I’m interested in coding, cyber security, AI, data science.
-- 🌱 I’m currently learning computer forensics and cyber security at univeristy.
+- 🌱 I’m currently learning computer forensics and cyber security at university.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
